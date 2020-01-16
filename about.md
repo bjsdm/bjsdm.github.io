@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "不近视的猫" 
+description: "博客描述" 
 header-img: "img/green.jpg"
 ---
 
