@@ -1,3 +1,12 @@
+---
+layout: post
+title: OKR的制定规范
+date: 2020-01-02
+categories: blog
+tags: [OKR,规范]
+description: OKR的制定规范。
+---
+
 # OKR的制定规范
 
 # 目录:
