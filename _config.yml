@@ -45,6 +45,7 @@ defaults:
       layout: "post"
       author: "不近视的猫" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-color: "#0abab5"
 
 # Comments 
 comments :

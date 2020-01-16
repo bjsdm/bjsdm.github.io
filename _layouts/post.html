@@ -5,8 +5,8 @@ layout: default
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
-        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
-        /*background-color: #0abab5;*/
+        /*background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')*/
+        background-color: '{{ site.baseurl }}/{% if page.header-color %}{{ page.header-color }}{% else %}{{ site.header-color }}{% endif %}';
     }
 </style>
 <header class="intro-header" >
