@@ -1,4 +1,13 @@
-﻿@[TOC](目录)
+---
+layout: post
+title: IntentService源码分析
+author: 不近视的猫
+date: 2020-04-20
+categories: blog
+tags: []
+description: IntentService源码分析
+---
+
 
 `Service`作为 Android 四大组件之一，其与`Activity`的区别可以理解为没有界面的`Activity`也就是说，`Service`要做的事情更多是置于后台进行操控，就像幕后黑手一样在无声无息中制造大量事件，因此，较为耗时的操作以及需要长时间使用但是却不需要展现界面的操作，都置于`Service`中运行，例如：数据处理以及`Socket`连接等。
 
