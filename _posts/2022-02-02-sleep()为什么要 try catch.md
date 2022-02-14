@@ -144,7 +144,7 @@ Process finished with exit code 0
 
 ## 中断等待
 
-我们再看看 sleep() 被标记为遗弃的说明：
+我们再看看 stop() 被标记为遗弃的说明：
 
 ```
  If the target thread waits for long periods (on a condition variable, for example),
